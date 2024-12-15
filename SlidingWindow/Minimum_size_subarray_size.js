@@ -26,3 +26,4 @@ var minSubArrayLen = function(target, nums) {
     }
     return minWindow==Infinity?0:minWindow;
 };
+
